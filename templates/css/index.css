@@ -1,0 +1,15 @@
+.h1{
+    font-size: 15px;
+  }
+  .card-container{
+    padding: 5px;
+  }
+  .card{
+    width: 14rem;
+  }
+  .card-body{
+    padding: 0px;
+  }
+  .card-img-top{
+    max-width: 35px;
+  }
